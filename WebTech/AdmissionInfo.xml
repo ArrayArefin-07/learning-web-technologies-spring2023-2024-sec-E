@@ -1,0 +1,31 @@
+<admissionInfo>
+     <person sr="1">
+         <SL_NO> 23 </SL_NO>
+         <NAME> John Carter </NAME>
+         <ADMISSION_DATE>
+              <Day>25</Day>
+              <Month>12</Month>
+              <Year>2015</Year>
+         </ADMISSION_DATE> 
+     </person>
+
+      <person sr="2">
+         <SL_NO> 29 </SL_NO>
+         <NAME> Bob Marshal </NAME>
+         <ADMISSION_DATE>
+              <Day>13</Day>
+              <Month>01</Month>
+              <Year>1999</Year>
+         </ADMISSION_DATE> 
+     </person>
+
+     <person sr="3">
+         <SL_NO> 35 </SL_NO>
+         <NAME> Clark Kent </NAME>
+         <ADMISSION_DATE>
+              <Day>17</Day>
+              <Month>06</Month>
+              <Year>2005</Year>
+         </ADMISSION_DATE> 
+     </person>
+</admissionInfo>
